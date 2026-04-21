@@ -12,7 +12,7 @@ import java.util.UUID;
 
 /** Service layer for task management. */
 public class TaskService {
-  private final TaskRepository repository;
+  private final TaskRepository repository
 
   /**
    * Creates a TaskService with the given repository.
